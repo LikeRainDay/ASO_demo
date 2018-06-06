@@ -28,6 +28,7 @@
 |Makefile|项目的编译管理||
 |Tweak.xm|注入点的声明||
 |NGASO.plist|当前此项目的注入程序的进程||
+|theos.zip|开发所需要的theos环境||
 
   
   
