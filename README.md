@@ -31,6 +31,13 @@
 |NGASO.plist|当前此项目的注入程序的进程||
 |theos.zip|开发所需要的theos环境||
 
-  
+
+# 编译实例
+```
+make clean && make package 
+```
+![实例图片](https://github.com/houshuai0816/ASO/blob/master/pic/QQ20180609-093818.png)
+
+![实例图片](https://github.com/houshuai0816/ASO/blob/master/pic/QQ20180609-093803.png)
   
  
