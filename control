@@ -1,9 +1,0 @@
-Package: com.houshuai.aso
-Name: ASO_HS
-Depends: mobilesubstrate
-Version: 0.1.9
-Architecture: iphoneos-arm
-Description: An awesome MobileSubstrate tweak!
-Maintainer: 喜欢雨天的我
-Author: 喜欢雨天的我
-Section: Tweaks
