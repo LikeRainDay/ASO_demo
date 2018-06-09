@@ -39,5 +39,9 @@ make clean && make package
 ![实例图片](https://github.com/houshuai0816/ASO/blob/master/pic/QQ20180609-093818.png)
 
 ![实例图片](https://github.com/houshuai0816/ASO/blob/master/pic/QQ20180609-093803.png)
+
+
+# target
+欢迎朋友们进行相互经验交流，并完善其中内容。
   
  
