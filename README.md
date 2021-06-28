@@ -39,6 +39,6 @@ make clean && make package
 
 
 # target
-仅供学习使用，一切商用后果个人承担。
+仅供学习使用，一切商用后果与作者无关。
   
  
